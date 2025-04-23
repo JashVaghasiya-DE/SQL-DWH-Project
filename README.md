@@ -1,3 +1,4 @@
+
 # SQL-DWH-Project
 
 Welcome to the * *Data Warehouse and Analytics Project* * repository!
